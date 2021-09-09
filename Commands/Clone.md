@@ -1,0 +1,16 @@
+# git clone
+
+Cloning a repository is the act of creating a new directory and an associated copy of the remote repository. It will be a clone, meaning it hass all tracked commits and commit history.
+
+It will also be associated with the remote, meaning that you can use the `git pull` command to pull updates from thr original repsitory.
+
+It can be done with the `git clone` command as seen here:
+```
+git clone https://github/elevenfiftyacemdemy/TerminalDungeon.git
+```
+
+## Resources
+
+- [Git Clone Documentation](https://git-scm.com/docs/git-clone)
+---
+[Back to Home](../README.md)
