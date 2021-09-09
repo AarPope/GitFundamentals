@@ -10,10 +10,10 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git add](./Commands/Add.md)
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
-- [git push](./commands/PUSH.md)
-- [git pull](./commands/PULL.md)
-- [git status](./commands/Status.md)
-- [git clone](./commands/Clone.md)
+- [git push](./Commands/PUSH.md)
+- [git pull](./Commands/PULL.md)
+- [git status](./Commands/Status.md)
+- [git clone](./Commands/Clone.md)
 
 ## External Resources
 
